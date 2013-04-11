@@ -1,0 +1,41 @@
+.header a.brand > span{
+	display: block;
+	text-align: center;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;	
+}
+
+.header a.brand > span:first-child {
+    font: 2em 'Lobster',cursive;
+}
+
+.header a.brand > span:last-child {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.testimonials img{
+	width: 58px;
+	height: 58px;
+}
+
+.presentation{
+    background: url("../img/pattern.jpg") repeat scroll left top #F8F8F8;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.05) inset, 0 -5px 15px 0 rgba(0, 0, 0, 0.05) inset;
+    padding: 30px 0 35px;	
+}
+
+.work > img{
+	height: 130px;
+}
+
+.team-text  > p{
+    padding: 0 5px;
+}
+
+#allUTAlbum > li{
+    min-height: 322px;
+}
+
+.pp_gallery img{
+    height: 100%;
+}
